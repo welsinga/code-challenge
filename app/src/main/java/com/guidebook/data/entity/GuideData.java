@@ -15,7 +15,7 @@ public class GuideData {
 
     @SerializedName("startDate")
     @ParcelProperty("startDate")
-    private String _startDate;
+    protected String _startDate;
 
     @SerializedName("endDate")
     @ParcelProperty("endDate")
